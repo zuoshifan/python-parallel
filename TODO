@@ -1,0 +1,8 @@
+mpi-logger
+mpi_array
+Dask
+mpi4py-fft
+spark-mpi
+petsc4py
+slepc4py
+mpi4pycuda
